@@ -1,3 +1,2 @@
 #!/bin/bash
 cat /etc/passwd
-root@8fd90b24c846:/alx-system_engineering-devops/0x02-shell_redirections# chmod U+x 2-hellofile
